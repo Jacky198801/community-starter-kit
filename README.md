@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A Apl to socialise
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Meet and date different online
 
 ## Getting started
 
